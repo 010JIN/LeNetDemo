@@ -1,2 +1,3 @@
 # LeNetDemo
-# https://github.com/010JIN/LeNetDemo.git
+# Use CIFAR10 Dataset
+# ACC = 69%
